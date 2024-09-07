@@ -1,0 +1,1 @@
+A simple, but advanced text editor written in Rust.
